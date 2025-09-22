@@ -5,7 +5,7 @@ app_id = "wx9e153d4eb38758b8"
 app_secret = "55976f26aba665f6b06210687d23b778"
 # 模板消息id
 # 每日消息
-template_id1 = "-nfq7J8CipBjFc-nZUI_QPk7r8CosOul4sNK0T8EDYA"
+template_id1 = "vtAXIY6pvTUQxktJPfs9T1qPPF8CmSg_NMEEhzltISs"
 # 晚安心语
 template_id3 = "WLBFleDyF2qPPSROiVjBm4V04EVUX6OSp1jWLTWop6M"
 # 接收公众号消息的微信号
@@ -65,5 +65,6 @@ good_Night_Key = "cf6637fc9a74a278774f0008dc979753"
 post_Time = "07:40:00"
 # 晚安心语及第二天课程推送时间
 good_Night_Time = "23:00:00"
+
 
 

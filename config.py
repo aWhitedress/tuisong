@@ -14,9 +14,9 @@ user = ["oZeIb2CZYO2GWF61yiJRQ2sq2pU8"]
 
 # 信息配置
 # 所在省份
-province = "重庆"
+province = "河北"
 # 所在城市
-city = 重庆"
+city = 承德"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
 birthday = "1998-5-29"
 # 在一起的日子，格式同上------------计时器
@@ -60,4 +60,5 @@ good_Night_Time = "23:00:00"
 # 第四讲: {{fourthClass.DATA}}
 # 第五讲: {{fifthClass.DATA}}
 # 第六讲: {{sixthClass.DATA}}
+
 

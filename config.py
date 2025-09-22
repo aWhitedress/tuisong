@@ -11,26 +11,22 @@ template_id3 = "WLBFleDyF2qPPSROiVjBm4V04EVUX6OSp1jWLTWop6M"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["oZeIb2CZYO2GWF61yiJRQ2sq2pU8"]
-
 # 信息配置
 # 所在省份
-"province": " 重庆",
+province = "四川"
 # 所在城市
-"city": "重庆",
-# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "小青", "birthday": "1998-05-29"},
-# 生日2
-"birthday2": {"name": "小楠", "birthday": "2002-03-15"},
-# 在一起的日子，格式同上
-"love_date": "20225-08-5"
+city = "绵阳"
+# 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
+birthday = "2022-9-9"
+# 在一起的日子，格式同上------------计时器
+love_date = "2001-12-1"
 # 天行数据晚安心语 key
 good_Night_Key = "cf6637fc9a74a278774f0008dc979753"
 # -------------------------------------------------------------------------
 # 每日推送时间
-post_Time = "07:40:00"
+post_Time = "07:35:00"
 # 晚安心语及第二天课程推送时间
-good_Night_Time = "23:00:00"
-
+good_Night_Time = "22:55:00"
 
 # 模板 1：每日提醒模板
 # 本周是开学的第: {{weeks.DATA}} 周
@@ -62,6 +58,12 @@ good_Night_Time = "23:00:00"
 # 第四讲: {{fourthClass.DATA}}
 # 第五讲: {{fifthClass.DATA}}
 # 第六讲: {{sixthClass.DATA}}
-
+# 天行数据晚安心语 key
+good_Night_Key = "cf6637fc9a74a278774f0008dc979753"
+# -------------------------------------------------------------------------
+# 每日推送时间
+post_Time = "07:40:00"
+# 晚安心语及第二天课程推送时间
+good_Night_Time = "23:00:00"
 
 
